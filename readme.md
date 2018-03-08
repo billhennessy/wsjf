@@ -1,36 +1,43 @@
-# Glitch Hosted Sample Trello Power-Up 🚀
+# Simple WSJF Calculator Power-Up for Trello
 
 Hey there 👋
 
-This is a bare-bones template for building a new Trello Power-Up. What does that mean for you? We hope it's a great starting point for you to remix, and make your own great Power-Up that makes Trello work even better for you. 
+Many organizations following Scaled Agile Framework use Trello a roadmapping tool. This power-up adds a WSJF calculator to your roadmap cards so you and your team can quickly calculate each card's WSJF. 
 
-Once you remix this, you'll want to take a look at what the new name is. Click the `Show Live` button up in the top bar and grab that url. You'll want to add `/manifest.json` to the end of it and then head here:
+Here's how to add the WSJF Calculator to your boards:
 
-👉  [https://trello.com/power-ups/admin](https://trello.com/power-ups/admin)
+t's a little clunky right now, but I'll give you step-by-step instructions. First, Trello wants to make this public power-up. They've done an awesome code review (best code review I've gotten received). As soon as I get time to apply all of their recommendations (God knows when), this will be a lot easier. 
 
-Select the Trello team you want to add the Power-Up to. Note: You need to be an admin of the Trello team to add custom Power-Ups to it.
+In the meantime, here's what you need to do:
+ 
+If your board isn't in a Team, create a Team and move your WSJF board(s) to that team. 
+Navigate to https://trello.com/power-ups/admin
+Click on the Team 
+Click Create a Power-Up button
+Fill out the form using the information in the screen shots below
+For convenience, here are the URLs to paste into the appropriate section:
+Image: https://billhennessy.github.io/wsjf/priority.png
 
-Now click the `Create new Power-Up` button. If this is your first time creating a Power-Up, you'll need to agree to a "Joint Developer Agreement" first. After you have done that, you just need to give your cool new Power-Up a name, and paste the manifest url link in (the one you created earlier).
+Iframe Connector: https://billhennessy.github.io/wsjf/index.html
+Click Done to save the power-up.
+Click Go to Your Boards
+Click the board you added to the Team
+Click Show Menu
+Click Power-Ups
+Click Custom in the left nav
+Find the WSJF power-up tile
+Click Enable
+Click X in upper, right-hand corner of Power-Ups manager modal
+You're done! Start scoring. 
 
-Click `Save` and it's time to celebrate 🎉 🎊
+ 
+Now, screenshots:
 
-Now when you look at the Power-Ups for any board in that team, your awesome new Power-Up will be available. You can continue to make changes to the Glitch project and you'll see that reflected in Trello (you may just need to refresh).
 
----
 
-Want more information about Power-Ups? 🤔
 
-👉  [https://developers.trello.com/power-ups/intro](https://developers.trello.com/power-ups/intro)
 
-We even have office hours you can sign up for if you want to talk to a real live person about your Power-Up. Just grab a slot that works for you on this [calendar](https://calendar.google.com/calendar/selfsched?sstoken=UU5DczNLUkNIbk5ifGRlZmF1bHR8YzJmZWM4YWM0NTgxMTE1NmRmMzgxNzMwODRjYzEwZGU). (Remember to add a bit about what you'd like help with when signing up for a slot).
 
----
-
-Looking for a more _realistic_ example Power-Up? You may find the Trello Card Snooze Power-Up useful. 😴
-
-👉  [Trello Card Snooze Glitch Project](https://glitch.com/edit/#!/trellocardsnooze)
-
-Icons made by [Freepik](http://www.freepik.com) and [Vectors Market](http://www.flaticon.com/authors/vectors-market) from [www.flaticon.com](http://www.flaticon.com) is licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/)
 
 ---
 
