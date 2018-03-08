@@ -1,6 +1,6 @@
 # Simple WSJF Calculator Power-Up for Trello
 
-Hey there 👋
+Hey there 
 
 Many organizations following Scaled Agile Framework use Trello a roadmapping tool. This power-up adds a WSJF calculator to your roadmap cards so you and your team can quickly calculate each card's WSJF. 
 
