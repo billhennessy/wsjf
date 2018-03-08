@@ -33,6 +33,7 @@ You're done! Start scoring.
  
 Now, screenshots:
 
+![Power-up-1](https://billhennessy.github.io/wsjf/power-up-1.png)
 
 
 
